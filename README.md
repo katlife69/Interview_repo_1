@@ -10,9 +10,23 @@
 
 # For Developer:
 
--Cài thư mục node_module : yarn
--Chạy json server : yarn server
--Chạy code môi trường dev : yarn dev
+- Cài thư mục node_module :
+
+```
+yarn
+```
+
+- Chạy json server :
+
+```
+yarn server
+```
+
+- Chạy code môi trường dev :
+
+```
+yarn dev
+```
 
 # ENV
 
